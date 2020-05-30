@@ -59,7 +59,6 @@ header input{
   height: 63px!important;
 }
 header form button{
-
   font-size: 28px!important;
   font-weight: 300!important;
   text-transform: uppercase!important;
@@ -81,4 +80,45 @@ header form button{
 
 .story-container img{
   width:100%
+}
+
+/* faq */
+.faq{
+  padding: 50px 0;
+  color:#fff;
+  border-bottom: 8px solid #222222;
+}
+.faq h1{
+  font-size: 3.125rem;
+  color: #fff;
+}
+.faq .card{
+  background-color: #303030;
+}
+
+.faq input{
+  height: 63px!important;
+}
+.faq button{
+  font-size: 28px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.faq h3{
+  color: #fff;
+  font-weight: 300;
+  font-size: 21px;
+}
+
+footer{
+  color: #757575;
+}
+footer ul li{
+  font-size: 14px;
+}
+footer .copyright{
+  font-size: 13px;
+}
+footer .dropdown button{
+  background-color: #000;
 }
